@@ -6,7 +6,7 @@ to heart disease prediction rely on subjective evaluation and may not be accurat
 efficient enough to identify at-risk patients early. Therefore, there is a need for a more
 accurate and efficient approach to heart disease prediction.
 
-I've used a variety of Machine Learning algorithms, implemented in Python, to predict the presence of heart disease in a patient. This is a classification problem, with input features as a variety of parameters, and the target variable as a binary variable, predicting whether heart disease is present or not.
+We've used a variety of Machine Learning algorithms, implemented in Python, to predict the presence of heart disease in a patient. This is a classification problem, with input features as a variety of parameters, and the target variable as a binary variable, predicting whether heart disease is present or not.
 
 Machine Learning algorithms used:
 
