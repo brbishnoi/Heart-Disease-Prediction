@@ -10,9 +10,9 @@ I've used a variety of Machine Learning algorithms, implemented in Python, to pr
 
 Machine Learning algorithms used:
 
-1.Logistic Regression (Scikit-learn)
+1.Logistic Regression 
 
-2.Naive Bayes (Scikit-learn)
+2.Naive Bayes
 
 3.KNN
 
